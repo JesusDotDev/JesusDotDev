@@ -5,11 +5,11 @@
 
 
 ###   **What's my current role in tech?** </h2>
-       { Software Engineer | Data Enthusiast } 
+       { Software Engineer } 
 
 ###   **Student, @<a href="https://github.com/Nithub-Unilag/">NITHUB</a>.** </h2>
 #### Follow JESUS via;
-<a href="https://github.com/JesusOfLagos"><img src="images/github.png" width="60" /></a>
+<a href="https://github.com/JesusDotDev"><img src="images/github.png" width="60" /></a>
 <a href="https://www.instagram.com/akanlejesus/"><img src="images/ig.png" width="60" /></a>
 <a href="https://mainstack.me/jesusoflagos/"><img src="mainstack.svg" width="60" /></a>
 
@@ -29,7 +29,7 @@ Here are some basic things to know about Jesus👳‍♂;
 - 🔭 I’m currently working on my Content Management skills,
 - 🌱 I’m currently exploring Fullstack Web Development,
 - 💬 Ask me about anything🌚,
-- 📫 How to reach me: Email: jesuswrites20043@gmail.com, Phone: +234 913 216 4480,
+- 📫 How to reach me: Email: jesusakanle20043@gmail.com, Phone: +234 913 216 4480,
 - ⚡ Fun fact: I dislike Gaming.
 
 #### My Core Languages
@@ -43,11 +43,11 @@ Here are some basic things to know about Jesus👳‍♂;
 
 #### Top Languages
 
-<a href="https://github.com/JesusOfLagos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusOfLagos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/JesusDotDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDotDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 #### GitHub Stats
 
-[![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=JesusOfLagos&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=JesusDotDev&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
